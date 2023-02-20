@@ -11,9 +11,10 @@ This project aims to create a movie recommendation system using the content-base
 5. Technologies
 6. 
 # This project uses the following libraries:
+
 Pandas
-NumPy
-Matplotlib
+Python
+difflib
 Scikit-learn
 
 # Dataset
