@@ -12,13 +12,10 @@ This project aims to create a movie recommendation system using the content-base
 
 # This project uses the following libraries:
 
-1.Pandas
-
-2. Python
-
-3. difflib
- 
-4. Scikit-learn
+ 1.Pandas
+ 2. Python
+ 3. difflib
+ 4. Scikit-learn
 
 # Dataset
 The dataset used in this project is the MovieLens Latest Full Dataset. It contains over 27,000 movies, 46,000 tags, and 26 million ratings.
