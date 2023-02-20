@@ -13,8 +13,11 @@ This project aims to create a movie recommendation system using the content-base
 # This project uses the following libraries:
 
 1.Pandas
+
 2. Python
+
 3. difflib
+ 
 4. Scikit-learn
 
 # Dataset
